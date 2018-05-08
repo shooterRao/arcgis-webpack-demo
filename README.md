@@ -4,10 +4,13 @@
 
 > git clone https://github.com/shooterRao/arcgis-webpack-demo.git 或者直接下载
 
+> 推荐使用[Vscode](https://github.com/Microsoft/vscode)进行测试
+
 ### 目前研究了出两个方案
 
 1.  [arcgis-webpack-es6](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-es6)
 2.  [arcgis-webpack-typeScript](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-typeScript)
+
 
 ### 参考资料
 
@@ -20,4 +23,4 @@
 7. [jsapi-resources](https://github.com/Esri/jsapi-resources)
 8. [相关资料总结](https://esri-es.github.io/awesome-arcgis/front-end/best-practices/)
 
-### 如果有新的发现和尝试，随时交流，欢迎PR！^_^
+### 如果有新的发现和尝试，可以随时提Issues和交流，欢迎PR！^_^
