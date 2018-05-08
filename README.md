@@ -6,7 +6,7 @@
 
 > 推荐使用[Vscode](https://github.com/Microsoft/vscode)进行测试
 
-### 目前研究了出两个方案
+### 目前写了两个Demo
 
 1.  [arcgis-webpack-es6](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-es6)
 2.  [arcgis-webpack-typeScript](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-typeScript)
