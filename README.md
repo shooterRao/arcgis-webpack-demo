@@ -2,6 +2,8 @@
 
 > 探索如何把webpack与arcgis api for js结合起来，再配合前端目前流行的es6(babel)/typeScript/less/scss/Eslint/postCss......等工具，还有框架(Vue、React、Dojo...)
 
+> git clone https://github.com/shooterRao/arcgis-webpack-demo.git 或者直接下载
+
 ### 目前研究了出两个方案
 
 1.  [arcgis-webpack-es6](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-es6)
@@ -18,4 +20,4 @@
 7. [jsapi-resources](https://github.com/Esri/jsapi-resources)
 8. [相关资料总结](https://esri-es.github.io/awesome-arcgis/front-end/best-practices/)
 
-### 如果有新的发现和尝试，欢迎PR！^_^
+### 如果有新的发现和尝试，随时交流，欢迎PR！^_^
