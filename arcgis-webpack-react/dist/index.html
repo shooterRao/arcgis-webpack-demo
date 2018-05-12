@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://js.arcgis.com/3.24/esri/css/esri.css">
+  <style>
+    html,
+    body,
+    #app,
+    #mapViewer
+    {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+  <title>arcgis-webpack-react</title>
+</head>
+<body>
+  <script>
+    const locationPath = location.pathname.replace(/\/[^\/]+$/, "");
+    window.dojoConfig = {
+            async: true,
+            // packages: [{
+            //   name: 'app',
+            //   location: locationPath + "/app"
+            // }]
+    };
+  </script>
+  <script src="https://js.arcgis.com/3.24/"></script>
+  <script>
+    require(['vendor.bundle.js','main.bundle.js'], function() {
+      
+    })
+    
+  </script>
+</body>
+</html>

@@ -10,7 +10,7 @@
 
 1.  [arcgis-webpack-es6](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-es6)
 2.  [arcgis-webpack-typeScript](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-typeScript)
-
+3.  [arcgis-webpack-react](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-react)
 
 ### 参考资料
 
@@ -22,5 +22,14 @@
 6. [arcgis-es6](https://github.com/tomwayson/esri-webpack-babel)
 7. [jsapi-resources](https://github.com/Esri/jsapi-resources)
 8. [相关资料总结](https://esri-es.github.io/awesome-arcgis/front-end/best-practices/)
+9. [arcgis4.7-webpack-plugin](https://github.com/Esri/arcgis-webpack-plugin)
+
+#### 关于webpack的
+1. [webpack打包优化](https://juejin.im/post/5ac76a8f51882555677ecc06)
+2. [官方文档-代码拆分](https://webpack.js.org/guides/code-splitting/)
+3. [webpack4.X拆包处理](https://webpack.js.org/plugins/split-chunks-plugin/)
+4. [react-webpack4.x](https://cloud.tencent.com/developer/article/1092725)
+5. [webpack基础](https://juejin.im/post/5adea0106fb9a07a9d6ff6de)
+6. [webpack多入口](https://juejin.im/post/5af3a6cbf265da0ba266ff25)
 
 ### 如果有新的发现和尝试，可以随时提Issues和交流，欢迎PR！^_^
