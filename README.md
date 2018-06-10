@@ -6,11 +6,14 @@
 
 > 推荐使用[Vscode](https://github.com/Microsoft/vscode)进行测试
 
-### 目前写了两个Demo
+### 目前写了四个Demo
 
 1.  [arcgis-webpack-es6](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-es6)
 2.  [arcgis-webpack-typeScript](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-typeScript)
 3.  [arcgis-webpack-react](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-react)
+4.  [arcgis-webpack-vue](https://github.com/shooterRao/arcgis-webpack-demo/tree/master/arcgis-webpack-vue)
+
+> 目前技术栈已定Vue，希望大家重点参考arcgis-webpack-vue，结合现有的项目进行相关预研
 
 ### 参考资料
 
