@@ -2,18 +2,21 @@
   <div id="app">
     <Header/>
     <BaseMap/>
+    <toolBar/>
   </div>
 </template>
 
 <script>
-import Header from "@/components/Header"
+import Header from "@/components/Header";
 import BaseMap from "@/components/Map";
+import toolBar from "@/components/toolBar";
 
 export default {
   name: 'app',
   components: {
     BaseMap,
-    Header
+    Header,
+    toolBar
   }
 }
 </script>
@@ -28,6 +31,7 @@ html, body {
   #app {
     width: 100%;
     height: 100%;
+    position: relative;
   }
 }
 </style>

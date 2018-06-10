@@ -9,7 +9,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 const website = {
-  publicPath: "http://localhost:5500/dist" // .....假的生产环境地址
+  publicPath: "http://localhost:5500/dist/" // .....假的生产环境地址
 };
 
 module.exports = {

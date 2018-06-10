@@ -15,7 +15,8 @@ module.exports = {
     path: path.resolve(__dirname, "./dist"), // 出口路径
     filename: "[name].js",
     libraryTarget: "amd", // 重点，打包成amd用require.js加载
-    publicPath: website.publicPath // css-loader处理Url引入中会用绝对路径引入进来
+    publicPath: website.publicPath, // css-loader处理Url引入中会用绝对路径引入进来
+    // umdNamedDefine: true
   },
   resolve: { 
     extensions: [".js", ".vue", ".json"],
