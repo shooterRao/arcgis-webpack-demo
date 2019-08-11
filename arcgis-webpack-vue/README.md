@@ -2,6 +2,8 @@
 
 现在技术栈已定vue+es6+，所以我们需要重点研究arcgis-webpack-vue方案，结合目前的业务和项目进行相关预研
 
+使用**vuecli2**的同学可以参考这个[仓库](https://github.com/shooterRao/arcgis-webpack-vue/tree/vuecli2)
+
 ## 如何测试？
 
 **Arcgis jsapi地址用的是本人本地部署api的地址，需要改成你们本地或者外网上的地址**
